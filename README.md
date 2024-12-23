@@ -32,11 +32,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📩 Contacto
+# 📩 Contacto:
 <a href="https://www.linkedin.com/in/bladimir-landa02/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir C.Landa's LinkedIn Profile" height="30" width="30">
 </a>
-<br>
+<span>&nbsp; &nbsp;</span>
 <a href="mailto:bladimircarrillolanda02@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Bladimir C.Landa's Gmail" height="30" width="30">
 </a>
