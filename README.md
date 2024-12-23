@@ -68,7 +68,7 @@
          alt="azzar" height="30"/>
 </a>
 <a href="https://cotizador-prestamos-react-bladimir.netlify.app/"><img align="center"
-         src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=orange"
+         src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a>
 
