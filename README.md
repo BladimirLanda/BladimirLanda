@@ -33,13 +33,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📩 Contacto:
-<a href="https://www.linkedin.com/in/bladimir-landa02/">
+<p>
+  <a href="https://www.linkedin.com/in/bladimir-landa02/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir C.Landa's LinkedIn Profile" height="30" width="30">
-</a>
-<br>
-<a href="mailto:bladimircarrillolanda02@gmail.com">
+  </a>
+  <span>&nbsp; in/bladimir-landa02</span>
+</p>
+<p>
+  <a href="mailto:bladimircarrillolanda02@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Bladimir C.Landa's Gmail" height="30" width="30">
-</a>
+  </a>
+  <span>bladimircarrillolanda02@gmail.com</span>
+</p>
 
 # 📊 GitHub Estatus:
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
