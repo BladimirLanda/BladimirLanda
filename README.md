@@ -32,7 +32,12 @@
 
 <a href="https://www.linkedin.com/in/bladimir-landa02/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir C.Landa's LinkedIn Profile" height="30" width="30">
-</a>
+</a> <br>
+<p>
+    Correo Electrónico:
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Bladimir C.Landa's Gmail" height="30" width="30">
+</p>
+
 
 # 📊 GitHub Estatus:
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
