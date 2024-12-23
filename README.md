@@ -3,7 +3,7 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Un+gusto!%2C;Bienvenidos+a+mi+Perfil+GitHub;Desarrollador+Backend+y+Frontend;Comencemos+a+trabajar+juntos" alt="Typing SVG" /></a>
 </div>
-<img width="55%" height="80px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img align="right src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="80">
 <br>
 
 # 💫 Sobre mí:
