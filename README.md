@@ -62,11 +62,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
 # 🌐 Proyectos:
-<a href="https://agenciaviajesnode-kv40.onrender.com/"><img align="center"
+<a href="https://agenciaviajesnode-kv40.onrender.com/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a> <br> <br>
-<a href="https://cotizador-prestamos-react-bladimir.netlify.app/"><img align="center"
+<a href="https://cotizador-prestamos-react-bladimir.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a>
