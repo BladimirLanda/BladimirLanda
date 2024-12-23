@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/bladimir-landa02/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir C.Landa's LinkedIn Profile" height="30" width="30">
   </a>
-  <span>&nbsp; in/bladimir-landa02</span>
+  <span>in/bladimir-landa02</span>
 </p>
 <p>
   <a href="mailto:bladimircarrillolanda02@gmail.com">
