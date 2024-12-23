@@ -49,23 +49,10 @@
          alt="azzar" height="30"/>
 </a>
 
-<a href="https://wa.me/+525545698729" target="blank"><img align="center"
+<a href="https://wa.me/+5215545698729" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/>
 </a>
-
-<p>
-  <a href="https://www.linkedin.com/in/bladimir-landa02/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Bladimir C.Landa's LinkedIn Profile" height="30" width="30">
-  </a>
-  <span>in/bladimir-landa02</span>
-</p>
-<p>
-  <a href="mailto:bladimircarrillolanda02@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Bladimir C.Landa's Gmail" height="30" width="30">
-  </a>
-  <span>bladimircarrillolanda02@gmail.com</span>
-</p>
 
 # 📊 GitHub Estatus:
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
