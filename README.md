@@ -3,7 +3,7 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hola%2C+Soy+Bladimir;Bienvenidos+a+mi+Perfil+GitHub;Desarrollador+Backend+y+Frontend;Comencemos+a+trabajar+juntos" alt="Typing SVG" /></a>
 </div>
-<img width="55%" height="80px" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" height="80px" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 # 💫 Sobre mí:
 🚀 Siempre en crecimiento: Soy un apasionado desarrollador full-stack enfocado en crear experiencias digitales innovadoras y efectivas con experiencia en tecnologías front-end y back-end.<br>
