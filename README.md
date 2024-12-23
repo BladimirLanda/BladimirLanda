@@ -1,16 +1,20 @@
 ## Hola, soy Bladimir C. Landa 👋
 
-<!--
-**BladimirLanda/BladimirLanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Sobre mí:
+🚀 Siempre en crecimiento: Soy un apasionado desarrollador full-stack enfocado en crear experiencias digitales innovadoras y efectivas con experiencia en tecnologías front-end y back-end.<br>
+🌐 Equipos: ¡abierto a la colaboración! ¿Front-end? ¿Back-end? Exploremos ambos universos..<br>
+📘 Objetivo: Llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua.<br>
+🔍 Interes: Cerrar la brecha entre el estilo front-end y el cerebro back-end.<br>
+💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
+🌟 ¿Sabías qu?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
