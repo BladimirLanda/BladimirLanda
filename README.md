@@ -1,4 +1,4 @@
-<img src="https://w7.pngwing.com/pngs/91/243/png-transparent-digital-marketing-web-banner-creative-flat-notebook-miscellaneous-creative-artwork-logo-thumbnail.png" alt="banner" width="1000px">
+<img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png" alt="banner" width="800px">
 
 ## Hola, soy Bladimir C. Landa 👋
 
