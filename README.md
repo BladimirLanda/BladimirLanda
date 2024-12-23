@@ -2,7 +2,7 @@
 
 # 💫 Sobre mí:
 🚀 Siempre en crecimiento: Soy un apasionado desarrollador full-stack enfocado en crear experiencias digitales innovadoras y efectivas con experiencia en tecnologías front-end y back-end.<br>
-🌐 Equipos: ¡abierto a la colaboración! ¿Front-end? ¿Back-end? Exploremos ambos universos..<br>
+🌐 Equipos: ¡abierto a la colaboración! ¿Front-end? ¿Back-end? Exploremos ambos universos.<br>
 📘 Objetivo: Llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua.<br>
 🔍 Interes: Cerrar la brecha entre el estilo front-end y el cerebro back-end.<br>
 💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
@@ -16,5 +16,17 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Maven](	https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
