@@ -1,5 +1,5 @@
 <div align=center>
-      <img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png" alt="banner" width="800px">
+      <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 ## Hola, soy Bladimir C. Landa 👋
