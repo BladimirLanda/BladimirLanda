@@ -64,7 +64,7 @@
 # 🌐 Proyectos:
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <a href="https://agenciaviajesnode-kv40.onrender.com/"><img align="center"
-         src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Agencia-Viajes&logoColor=white"
+         src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a>
 
