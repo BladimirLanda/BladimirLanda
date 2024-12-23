@@ -66,7 +66,7 @@
 <a href="https://agenciaviajesnode-kv40.onrender.com/"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a>
+</a> <br>
 <a href="https://cotizador-prestamos-react-bladimir.netlify.app/"><img align="center"
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
