@@ -1,4 +1,4 @@
-<img src="https://www.openinnova.es/wp-content/uploads/2017/02/Desarrollo-Web-Coru%C3%B1a-Openinnova-770x252.jpg" alt="banner" width="1000px">
+<img src="https://w7.pngwing.com/pngs/91/243/png-transparent-digital-marketing-web-banner-creative-flat-notebook-miscellaneous-creative-artwork-logo-thumbnail.png" alt="banner" width="1000px">
 
 ## Hola, soy Bladimir C. Landa 👋
 
