@@ -65,11 +65,11 @@
 <a href="https://agenciaviajesnode-kv40.onrender.com/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a> <br> <br>
+</a> <span>&nbsp;</span>
 <a href="https://cotizador-prestamos-react-bladimir.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a>
+</a> <br> <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
