@@ -1,4 +1,6 @@
-<img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png" alt="banner" width="800px">
+<div align=center>
+      <img src="https://www.nunsys.com/wp-content/uploads/2022/11/desarrollo-web.png" alt="banner" width="800px">
+</div>
 
 ## Hola, soy Bladimir C. Landa 👋
 
