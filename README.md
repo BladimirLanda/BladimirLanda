@@ -1,4 +1,4 @@
-<img width="55%" height="50px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" height="80px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## Hola, soy Bladimir C. Landa 👋
 
