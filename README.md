@@ -70,6 +70,14 @@
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a> <br> <br>
+<a href="https://bladimirlanda.github.io/Digimon-API/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/Digimon_API-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
+         alt="azzar" height="30"/>
+</a>
+<a href="https://proyecto-tailwind-bladcl.netlify.app/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/Maquetación_TailwindCSS-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
+         alt="azzar" height="30"/>
+</a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
