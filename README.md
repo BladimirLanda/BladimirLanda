@@ -1,4 +1,4 @@
-<img src="https://prointernet.mx/webdesign/elementos-imprescindibles-para-un-buen-diseno-web/images/elementos-imprescindibles-para-un-buen-diseno-web.jpg" alt="banner" width="1000px">
+<img src="https://www.openinnova.es/wp-content/uploads/2017/02/Desarrollo-Web-Coru%C3%B1a-Openinnova-770x252.jpg" alt="banner" width="1000px">
 
 ## Hola, soy Bladimir C. Landa 👋
 
