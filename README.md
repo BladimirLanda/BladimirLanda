@@ -9,7 +9,7 @@
 # 💫 Sobre mí:
 🚀 Siempre en crecimiento: Soy un apasionado desarrollador full-stack enfocado en crear experiencias digitales innovadoras y efectivas con experiencia en tecnologías front-end y back-end.<br>
 🌐 Equipos: ¡abierto a la colaboración! ¿Front-end? ¿Back-end? Exploremos ambos universos.<br>
-📘 Objetivo: Llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua.<br>
+📘 Enfoque: Llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua.<br>
 🔍 Interés: Cerrar la brecha entre el estilo front-end y el cerebro back-end.<br>
 💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
 🌟 ¿Sabías qué...?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
