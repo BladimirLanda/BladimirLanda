@@ -72,7 +72,7 @@
 <a href="https://agenciaviajesnode-kv40.onrender.com/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a> <span> / </span>
+</a>
 <a href="https://cotizador-prestamos-react-bladimir.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
@@ -80,7 +80,7 @@
 <a href="https://bladimirlanda.github.io/Digimon-API/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Digimon_API-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a> <span> / </span>
+</a>
 <a href="https://proyecto-tailwind-bladcl.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Maquetación_TailwindCSS-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
