@@ -82,7 +82,11 @@
          alt="azzar" height="30"/>
 </a>
 <a href="https://proyecto-tailwind-bladcl.netlify.app/" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/Maquetación_TailwindCSS-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
+         src="https://img.shields.io/badge/Maquetación_TailwindCSS-42f458?style=for-the-badge&logo=Google-chrome&logoColor=white"
+         alt="azzar" height="30"/>
+</a>
+<a href="https://www.linkedin.com/in/bladimir-landa02/details/projects/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/Todos_Los_Proyectos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
 </a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
