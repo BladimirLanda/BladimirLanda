@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/bladimir-landa02/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/>
-</a>
+</a> 
 
 <a href="mailto:bladimircarrillolanda02@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
@@ -72,7 +72,7 @@
 <a href="https://agenciaviajesnode-kv40.onrender.com/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a> <br>
+</a> <span> / </span>
 <a href="https://cotizador-prestamos-react-bladimir.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Cotizador_Prestamos-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
@@ -80,7 +80,7 @@
 <a href="https://bladimirlanda.github.io/Digimon-API/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Digimon_API-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
-</a> <br>
+</a> <span> / </span>
 <a href="https://proyecto-tailwind-bladcl.netlify.app/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Maquetación_TailwindCSS-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
