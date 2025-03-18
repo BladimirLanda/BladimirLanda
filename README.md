@@ -1,7 +1,7 @@
 ## Hola, soy Bladimir C. Landa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Un+gusto!%2C;Bienvenido+a+mi+Perfil+GitHub;Desarrollador+Backend+y+Frontend;Comencemos+a+trabajar+juntos+(:" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/ font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Un+gusto!%2C;Bienvenido+a+mi+Perfil+GitHub;Desarrollador+Backend+y+Frontend;Comencemos+a+trabajar+juntos+(:" alt="Typing SVG" /></a>
       <img align=right src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Cup of Coffee" height="150">
 </div>
 <br>
@@ -14,7 +14,7 @@
 💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
 🌟 ¿Sabías qué...?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
 
-<div align="center" style="padding:10;">
+<div align="center">
       <img align="right" top="100" height="300" width="400" alt="gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
