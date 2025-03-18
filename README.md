@@ -14,7 +14,7 @@
 💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
 🌟 ¿Sabías qué...?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
 
-<div align="center">
+<div align="center" style="padding:10;">
       <img align="right" top="100" height="300" width="400" alt="gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
