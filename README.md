@@ -15,7 +15,7 @@
 🌟 ¿Sabías qué...?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
 
 <a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="./giphy-unscreen.gif">
+  <img align="right" top="1000" height="300" width="400" alt="gif" src="./giphy-unscreen.gif">
 </a>
 
 # 💻 Tecnologías:
