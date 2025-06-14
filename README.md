@@ -1,18 +1,18 @@
-# Hola, soy Bladimir Landa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi, I'm Bladimir Landa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Un+gusto!%2C;Bienvenido+a+mi+Perfil+GitHub;Desarrollador+Backend+y+Frontend;Comencemos+a+trabajar+juntos+(:" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=A+pleasure!%2C;Welcome+to+my+GitHub+Profile;Backend+and+Frontend+Developer;Let's+start+working+together+(:" alt="Typing SVG" /></a>
       <img align=right src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="Cup of Coffee" height="150">
 </div>
 <br>
 
-# 💫 Sobre mí:
-🚀 Siempre en crecimiento: Soy un apasionado desarrollador full-stack enfocado en crear experiencias digitales innovadoras y efectivas con experiencia en tecnologías front-end y back-end.<br>
-🌐 Equipos: ¡abierto a la colaboración! ¿Front-end? ¿Back-end? Exploremos ambos universos.<br>
-📘 Enfoque: Llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua.<br>
-🔍 Interés: Cerrar la brecha entre el estilo front-end y el cerebro back-end.<br>
-💯 Objetivo: Mi objetivo es llevar la interacción digital a otro nivel, fusionando estética visual, funcionalidad intuitiva y tecnología de vanguardia en un entorno de mejora continua. <br>
-🌟 ¿Sabías qué...?: Me caracterizo por ser proactivo, innovador y comprometido con la calidad. Busco colaborar en proyectos que impliquen desafíos tecnológicos y crecimiento profesional.
+# 💫 About Me:
+🚀 Always growing: I’m a passionate full-stack developer focused on creating innovative and effective digital experiences, with experience in both front-end and back-end technologies.
+🌐 Team player: Open to collaboration! Front-end? Back-end? Let’s explore both worlds.
+📘 Focus: Elevating digital interaction by merging visual aesthetics, intuitive functionality, and cutting-edge technology in a continuous improvement environment.
+🔍 Interest: Bridging the gap between front-end design and back-end logic.
+💯 Goal: My goal is to enhance digital interaction by combining visual appeal, seamless functionality, and advanced technology within a culture of constant growth.
+🌟 Fun fact: I'm proactive, innovative, and committed to delivering quality. Always seeking projects that involve technical challenges and professional growth.
 
 <div align="center">
       <img align="right" top="100" height="300" width="400" alt="gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
