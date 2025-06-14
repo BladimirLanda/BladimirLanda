@@ -19,7 +19,7 @@
 </div>
 
 
-# 💻 Tecnologías:
+# 💻 Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
@@ -50,7 +50,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-# 📩 Contacto:
+# 📩 Contact:
 <a href="https://www.linkedin.com/in/bladimir-landa02/"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/>
@@ -66,12 +66,12 @@
          alt="azzar" height="30"/>
 </a>
 
-# 📊 Estatus GitHub:
+# 📊 GitHub Status:
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
-# 🌐 Proyectos:
+# 🌐 Projects:
 <a href="https://agenciaviajesnode-kv40.onrender.com/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/Agencia_Viajes-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"
          alt="azzar" height="30"/>
