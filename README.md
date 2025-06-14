@@ -7,12 +7,12 @@
 <br>
 
 # 💫 About Me:
-🚀 Always growing: I’m a passionate full-stack developer focused on creating innovative and effective digital experiences, with experience in both front-end and back-end technologies.
-🌐 Team player: Open to collaboration! Front-end? Back-end? Let’s explore both worlds.
-📘 Focus: Elevating digital interaction by merging visual aesthetics, intuitive functionality, and cutting-edge technology in a continuous improvement environment.
-🔍 Interest: Bridging the gap between front-end design and back-end logic.
-💯 Goal: My goal is to enhance digital interaction by combining visual appeal, seamless functionality, and advanced technology within a culture of constant growth.
-🌟 Fun fact: I'm proactive, innovative, and committed to delivering quality. Always seeking projects that involve technical challenges and professional growth.
+🚀 Always growing: I’m a passionate full-stack developer focused on creating innovative and effective digital experiences, with experience in both front-end and back-end technologies. <br>
+🌐 Team player: Open to collaboration! Front-end? Back-end? Let’s explore both worlds. <br>
+📘 Focus: Elevating digital interaction by merging visual aesthetics, intuitive functionality, and cutting-edge technology in a continuous improvement environment. <br>
+🔍 Interest: Bridging the gap between front-end design and back-end logic. <br>
+💯 Goal: My goal is to enhance digital interaction by combining visual appeal, seamless functionality, and advanced technology within a culture of constant growth. <br>
+🌟 Fun fact: I'm proactive, innovative, and committed to delivering quality. Always seeking projects that involve technical challenges and professional growth. <br>
 
 <div align="center">
       <img align="right" top="100" height="300" width="400" alt="gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
